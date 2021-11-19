@@ -1,0 +1,43 @@
+.topics{
+  position: absolute;
+  background-color: #593196;
+  height: 89.2%;
+  width: 15%;
+  color: white;
+}
+
+#topicsList li{
+
+}
+
+body{
+  overflow: hidden;
+}
+
+.jumbotron{
+  position: absolute;
+  left: 15%;
+  width: 85%;
+  height: 85%;
+  font-size: 17.5px;
+}
+
+.navbar-nav li{
+  font-size: 17.5px;
+}
+.navbar{
+  background-color: black;
+}
+#black{
+  color:#efa31d;
+}
+#black:hover{
+  color:white;
+}
+.yellow{
+  color:#efa31d;
+}
+.paragraph{
+  text-indent: 5%
+  background-color: red;
+}
